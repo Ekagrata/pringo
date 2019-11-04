@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+  
+<!-- Mirrored from halo.cool/en/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Nov 2019 09:18:59 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <base  />
+    <title>About us - HALO Digital Company</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preload" as="font" href="https://halo.cool/bundles/halo/fonts/Futura Std Medium.ttf" crossorigin>
+    <link rel="stylesheet" type="text/css" href="../bundles/halo/css/app.css">
+    <meta property="og:url" content="about-us" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="About us" />
+    <link rel="icon" type="image/x-icon" href="https://halo.cool/favicon.ico" />
+
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="../favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://halo.cool/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1246868-31"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1246868-31');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5JPPJBB');</script>
+<!-- End Google Tag Manager -->
+
+
+  </head>
+  <body class="lang-en">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JPPJBB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <!-- facebook chat -->
+  <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+    xfbml            : true,
+    version          : 'v3.3'
+  });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = '../../connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=install_email
+  page_id="160363697321328"
+  theme_color="#FF4544"
+    logged_in_greeting="Hi! How can we help you? Zdravo, kako mo&#x17e;emo da Vam pomognemo?"
+    logged_out_greeting="Hi! How can we help you? Zdravo, kako mo&#x17e;emo da Vam pomognemo?">
+</div>
+  <!-- end facebook chat -->
+  
+  
+    <div class="scroll-container">
+
+
+    <section class="intro oc-gray white">
+      <intro-bg color="white" vue-dyn=""></intro-bg>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+      <div class="scroll-up">
+        <a href="#">Scroll</a>
+      </div>
+      <div class="page-name">
+        <span>About us</span>
+      </div>
+      <div class="intro-content">
+        <div class="intro-intro">GET TO KNOW US</div>
+        <div class="intro-heading">We live and<br />breathe digital.</div>
+        <div class="intro-ending">Learn how we are building a better digital business ecosystem.</div>
+      </div>
+    </section>
+    <section class="splitcontent gray oc-white animated1x textcontent">
+      <div class="ext-bg"></div>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+      <div class="scroll-up">
+        <a href="#">Scroll</a>
+      </div>
+      <div class="page-name">
+        <span>About us</span>
+      </div>
+      <div class="container gensplitc content-delayed">
+        <div>
+          <h2>Who we are</h2>
+          <div class="splintro">
+            We are:
+<div class="hashtags">
+<span>#Experienced,</span>
+<span>#Fast_thinkers,</span>
+<span>#Creative,</span>
+<span>#Tech_oriented,</span>
+<span>#Chocolate_adicts,</span>
+<span>#Family_guys</span>
+</div>          </div>
+        </div>
+        <div class="emph-text">
+          <div>
+          <div class="emph-text">
+<div class="animated">
+<p dir="ltr"><span>Our team is made up of industry experts in their respective fields. We all live and breathe digital and approach each project as our own.</span></p>
+<p dir="ltr"><span>In the beginning, we started building simple websites and are now creating awesome all-encompassing online solutions. These solutions include online platforms to complex e-commerce solutions.</span></p>
+<p dir="ltr"><span>We are able to achieve this by gaining a deep understanding of our client's needs and target market, then combining insight-driven strategy &amp; ideation with the highest levels of execution.</span></p>
+<p dir="ltr"><span>Based on our vast experience, we have created our own strategic approach methodology. This methodology allows us to vet each project and work efficiently and effectively, providing you with more than just a web solution.</span></p>
+<p dir="ltr"><span>We use innovative technologies that will create ideal solutions for your business needs.</span></p>
+<p dir="ltr"><span>All said and done we create products and services that transform organizations for the digital economy.</span></p>
+</div>
+</div>          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="splitcontent gray oc-white animated1x textcontent">
+      <div class="ext-bg"></div>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+      <div class="scroll-up">
+        <a href="#">Scroll</a>
+      </div>
+      <div class="page-name">
+        <span>About us</span>
+      </div>
+      <div class="container gensplitc">
+        <div>
+          <h2>Our Vision</h2>
+          <div class="splintro">
+                      </div>
+        </div>
+        <div class="">
+          <dl>
+            <dt>We have been visionaries since day one</dt>
+            <dd><p dir="ltr"><span>Halo&rsquo;s vision is to create a dynamic working environment where all of our employees feel a sense of enjoyment.</span></p></dd>
+            <dt>Building Trust</dt>
+            <dd><p dir="ltr"><span>Is all about how we do business. We make a point of establishing good relationships with each of our clients or our friends!</span></p></dd>
+            <dt>Solving problems together</dt>
+            <dd><p><span id="docs-internal-guid-fc1c4101-7fff-7ad4-a2f4-b7b0b2b97907"><span>Working with us is a creative joint venture. We rely heavily on collaboration and teamwork across borders to bring ideas to life. We are always in it together, whether you are a client, partner, or colleague. Everyone plays a significant role because everyone can make a difference.</span></span></p></dd>
+          </dl>
+        </div>
+      </div>
+      
+
+    </section>
+    <section class="splitcontent gray oc-white animated1x textcontent">
+      <div class="ext-bg"></div>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+      <div class="scroll-up">
+        <a href="#">Scroll</a>
+      </div>
+      <div class="page-name">
+        <span>About us</span>
+      </div>
+      <div class="container gensplitc ">
+        <div>
+          <h2>Outsourcing</h2>
+          <div class="splintro">
+            Adapting to your needs.          </div>
+        </div>
+        <div class="emph-text">
+          <div>
+          <p dir="ltr"><span>Although we are very happy to be actively involved in each phase of the project, we can also take a step back and provide you with outsourcing services which would help you develop your project.</span></p>
+<p dir="ltr"><span>We can adapt to your way of doing business, by working remotely or by sending members of our team to your location, when the situation asks for it.</span></p>
+<p dir="ltr"><span>All things considered, we are interested in creating the best solution for your needs.</span></p>          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="client-list-container white oc-gray">
+      <div class="ext-bg"></div>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+      <div class="scroll-up">
+        <a href="#">Scroll</a>
+      </div>
+      <div class="page-name">
+        <span>About us</span>
+      </div>
+      <div class="container">
+        <div class="sect-head">
+          <h2>Companies which trust us</h2>
+<!--           <div class="note">Some of latest projects we proudly made.</div> -->
+        </div>
+        <ul class="client-list">
+          <li >
+            <a><img src="https://halo.cool/files/toseng.svg" alt="" /></a>
+          </li>
+          <li >
+            <a><img src="https://halo.cool/files/ubs.svg" alt="" /></a>
+          </li>
+          <li class="double">
+            <a><img src="https://halo.cool/files/bp.svg" alt="" /></a>
+          </li>
+          <li >
+            <a><img src="https://halo.cool/files/helvetas.svg" alt="" /></a>
+          </li>
+          <li >
+            <a><img src="https://halo.cool/files/pksengpng.svg" alt="" /></a>
+          </li>
+          <li >
+            <a><img src="https://halo.cool/files/itaf.svg" alt="" /></a>
+          </li>
+        </ul>
+        <div class="more"></div>
+      </div>
+    </section>
+    <section class="intro foot-intro oc-gray red animated1x">
+      <div class="ext-bg"></div>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+      <div class="scroll-up">
+        <a href="#">Scroll</a>
+      </div>
+      <div class="page-name">
+        <span>About us</span>
+      </div>
+      <div class="intro-content">
+        <div class="intro-intro">LET’S TALK</div>
+        <div class="intro-heading">Let's build something <br />awesome together! </div>
+        <div class="intro-ending">Reach out to our team and we’ll get back to you within a day.</div>
+        <div class="plus-link"><a href="https://halo2.typeform.com/to/wjXiwP" class="hire-button">Work with us! </a></div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="finfo">
+          <div class="fslogan">
+            Creating digital products with love since 2007.           </div>
+          <div class="fcontact">
+            <h4>CONTACT US</h4>
+            <div><a href="mailto:hi@haloagency.net">hi@haloagency.net</a></div>
+            <div><a class="tel" href="tel:+381 11 3544 783">+381 11 3544 783</a></div>
+          </div>
+        </div>
+        <div class="fcs">
+          <div class="fcopy">
+            © 2019 <span class="no-mobile">by HALO Creative Agency.</span>
+            <a href="privacy.html">Privacy & Cookies</a>
+          </div>
+          <div class="fsocial">
+            <a href="https://www.linkedin.com/company/halo-creative-agency" target="_blank">LinkedIn</a>
+            <a href="https://www.facebook.com/haloagency.net/" target="_blank">Facebook</a>
+            <a href="https://twitter.com/haloagency" target="_blank">Twitter</a>
+            <a href="https://clutch.co/profile/halo-creative-agency" target="_blank">Clutch</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+    </div>
+
+    <section class="menu white oc-gray">
+      <div class="menu-container">
+        <div class="ext-bg"></div>
+      <main-logo vue-dyn="firstLogo" vue-data="{&quot;small&quot;:false}" :small="small" href="https://halo.cool/en"></main-logo>
+      <div class="menu-handle">
+          <div class="add-link hire-button"><a href="mailto:hi@haloagency.net">Work with us!</a></div>
+        <a href="#" class="menu-handle-a"><span></span></a>
+      </div>
+        <nav>
+          <ul class="menu-items">
+            <li><a class="dyn" href="https://halo.cool/en">Home</a></li>
+            <li><a class="dyn" href="services.html">Services</a></li>
+            <li><a class="dyn" href="work.html">Work</a></li>
+            <li><a class="dyn" href="about-us">About us</a></li>
+            <li><a class="dyn" href="careers.html">Careers</a></li>
+            <li><a class="dyn" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+        <ul class="lang">
+          <li class="active"><a class="dyn" href="about-us">English</a></li>
+          <li class=""><a class="dyn" href="https://halo.cool/o-nama">Srpski</a></li>
+        </ul>
+        <div class="contactinfo">
+          <h4>Contact us</h4>
+          <div><a href="mailto:hi@haloagency.net">hi@haloagency.net</a></div>
+          <div>+381 11 3544 783</div>
+        </div>
+      </div>
+    </section>
+    
+    <section class="typeform white">
+      <div class="tfcontainer">
+        <div class="menu-handle">
+          <a href="#" class="menu-handle-a"><span></span></a>
+        </div>
+        <questions-list vue-dyn></questions-list>
+        <script>
+          window.questionsList={"questions":[{"id":2,"title":"Tell us something more about yourself","intro":"<p>Your name, where are you from, something more you like to share...<\/p>","required":true,"type":"Multiline","options":[],"answer":"","submitted":false},{"id":4,"title":"Tell us something more about your Company (in case that you are from one)","intro":"<div class=\"Spacer-sc-11bdvt0-0 cZOvFY\">\r\n<p class=\"_Text-sc-1t2ribu-0-p fnPouG\" data-qa=\"block-description\">Basic stuff, like from which industry are you coming, what are you doing there and where are you going to...<\/p>\r\n<\/div>","required":true,"type":"Multiline","options":[],"answer":"","submitted":false},{"id":6,"title":"Your email address","intro":"","required":true,"type":"Email","options":[],"answer":"","submitted":false},{"id":8,"title":"Your phone","intro":"","required":false,"type":"Phone","options":[],"answer":"","submitted":false},{"id":10,"title":"Let's jump into the point - what is your Project about, give us some heads up...","intro":"<div class=\"Spacer-sc-11bdvt0-0 cZOvFY\">\r\n<p class=\"_Text-sc-1t2ribu-0-p fnPouG\" data-qa=\"block-description\">Some nice introduction about your project, what are your needs and expectations...<\/p>\r\n<\/div>","required":true,"type":"Multiline","options":[],"answer":"","submitted":false},{"id":12,"title":"What we can do for you?","intro":"<p>Choose one of our Services - you can choose more than one; always recommended<\/p>","required":true,"type":"Multiselect","options":["UI\/UX design","Front - End Development","Software Development","Mobile Development","Social Media Platform","DSP\/SSP Platform","Consulting"],"answer":[],"submitted":false},{"id":14,"title":"Can you let us know what budget you have for crafting your Project?","intro":"","required":true,"type":"Select","options":["Less then $5000","$5000 - $10000","$10000 - $100000","I would like a Quote from you","I dont have an idea how much this can cost"],"answer":"","submitted":false},{"id":16,"title":"Feel free to write something more if you have any additional info to share","intro":"","required":false,"type":"Multiline","options":[],"answer":"","submitted":false}],"general":{"id":2,"title":"Summary","beforeFinish":"","thankYouTitle":"Thank You!","thankYou":"<p>We'll contact you shortly.<\/p>"},"language":"en"};
+        </script>
+      </div>
+    </section>
+    
+    <div class="privacy-banner">
+      <h4>Privacy & Cookies</h4>
+      <p>We use cookies to give you the best experience on our site. By using our site you consent to cookies.</p>
+<p>Read our <a href="privacy.html">Privacy &amp; Cookies</a>.</p>      <div class="button-box">
+        <button>Accept & close</button>
+      </div>
+    </div>
+    
+    <script src="../bundles/halo/js/app.js"></script>
+  </body>
+
+<!-- Mirrored from halo.cool/en/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Nov 2019 09:18:59 GMT -->
+</html>
